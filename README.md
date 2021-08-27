@@ -1,4 +1,4 @@
-# Harry-Potter-Cloak
+# Invisi
 
 * An image masking and manipulation project made in Python which renders a particular colorspace see-through.
 * Uses OpenCV and Numpy to capture and mask camera input frames to achieve see-throughness.
