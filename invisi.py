@@ -68,7 +68,7 @@ while(True):
 
 	final = cv2.bitwise_or(frame_inv, blanket_area)
 
-	cv2.imshow("Harry's Cloak", final)
+	cv2.imshow("Invisi", final)
 	cv2.imshow("Original", frame)
 
 	if(cv2.waitKey(3) == ord('q')):
